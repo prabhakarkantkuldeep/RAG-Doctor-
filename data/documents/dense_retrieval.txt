@@ -1,0 +1,1 @@
+Dense retrieval encodes queries and documents into continuous vector representations. Similarity between normalized vectors is often measured with cosine similarity or an inner product. Dense retrieval can identify semantically related passages even when exact query terms differ. Its performance depends strongly on the embedding model and the quality of the indexed corpus.

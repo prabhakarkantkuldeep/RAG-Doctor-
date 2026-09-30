@@ -1,0 +1,1 @@
+Chunking divides source documents into smaller passages before indexing. Small chunks can improve retrieval precision but may lose context. Large chunks preserve context but can contain irrelevant material and consume more context length. Overlap can preserve information across chunk boundaries. Chunk size should therefore be treated as an experimental parameter.

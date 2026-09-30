@@ -1,0 +1,1 @@
+BM25 is a sparse lexical retrieval algorithm. It scores documents using term frequency, inverse document frequency, and document-length normalization. BM25 is effective when query wording overlaps with the vocabulary in relevant documents. It can struggle with semantic matches when the same idea is expressed using different words.

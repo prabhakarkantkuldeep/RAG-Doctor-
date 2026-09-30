@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Which animal uses a hump primarily to store fat rather than water?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "lexical"
+  },
+  {
+    "question": "Why do many desert rodents remain in burrows during the daytime?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "semantic"
+  },
+  {
+    "question": "How do elephants communicate over long distances?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "mixed"
+  },
+  {
+    "question": "What role can mangrove roots play in coastal ecosystems?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "semantic"
+  },
+  {
+    "question": "Why are snow leopards well suited to mountainous terrain?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "mixed"
+  },
+  {
+    "question": "What is the difference between a food chain and a food web?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "lexical"
+  },
+  {
+    "question": "How can camera traps be used in wildlife research?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "semantic"
+  },
+  {
+    "question": "Why can wildlife corridors be important?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "semantic"
+  },
+  {
+    "question": "What causes coral bleaching according to the guide?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "lexical"
+  },
+  {
+    "question": "How do salmon use freshwater and marine environments during their life cycle?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "mixed"
+  },
+  {
+    "question": "What information does the waggle dance provide?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "lexical"
+  },
+  {
+    "question": "Why can climate change be especially challenging for mountain species?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "semantic"
+  },
+  {
+    "question": "What is mark-recapture used for?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "lexical"
+  },
+  {
+    "question": "Why are scavengers ecologically important?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "semantic"
+  },
+  {
+    "question": "What are some major causes of wildlife population decline?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "mixed"
+  },
+  {
+    "question": "How does countershading help an animal?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "semantic"
+  },
+  {
+    "question": "Why do some animals migrate seasonally?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "semantic"
+  },
+  {
+    "question": "What is an invasive species?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "lexical"
+  },
+  {
+    "question": "How can human-wildlife conflict be reduced?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "mixed"
+  },
+  {
+    "question": "Why are bats important in nighttime ecosystems?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "semantic"
+  },
+  {
+    "question": "What adaptations help penguins survive in cold marine environments?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "mixed"
+  },
+  {
+    "question": "How can protected areas fail to conserve wildlife effectively?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "semantic"
+  },
+  {
+    "question": "What does genetic diversity provide to wildlife populations?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "semantic"
+  },
+  {
+    "question": "How does habitat fragmentation affect conservation?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "semantic"
+  },
+  {
+    "question": "What is the purpose of GPS tracking in field research?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "lexical"
+  },
+  {
+    "question": "Why are amphibians closely connected to wetlands?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "mixed"
+  },
+  {
+    "question": "How do lions differ socially from tigers?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "mixed"
+  },
+  {
+    "question": "Why do giraffes browse on woody plants?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "semantic"
+  },
+  {
+    "question": "What are the major components of biodiversity?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "lexical"
+  },
+  {
+    "question": "Why should restoration projects use measurable ecological indicators?",
+    "relevant_chunk_ids": [
+      "wildlife_ecology_field_guide_chunk_0"
+    ],
+    "type": "semantic"
+  }
+]

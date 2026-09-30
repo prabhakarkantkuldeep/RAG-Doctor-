@@ -1,0 +1,1 @@
+Fusion strategies determine how sparse and dense rankings are combined. Reciprocal Rank Fusion gives each result a contribution based on its rank in each input list. Other approaches can normalize scores and combine them directly. Fusion should be evaluated empirically because the two retrieval signals may have different strengths.

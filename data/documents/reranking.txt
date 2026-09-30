@@ -1,0 +1,1 @@
+Reranking is a second-stage retrieval process. An inexpensive first-stage retriever produces a candidate set, and a stronger model then scores query-document pairs and reorders the candidates. Cross-encoders are commonly used for this task. A reranker can improve ordering but cannot recover a relevant document that was absent from the candidate set.

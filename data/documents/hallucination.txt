@@ -1,0 +1,1 @@
+Hallucination in RAG refers to an answer containing unsupported or incorrect claims despite the presence of a retrieval pipeline. Retrieval does not automatically guarantee factual generation. The model can ignore relevant evidence, combine unrelated evidence, or introduce information not supported by the retrieved context.

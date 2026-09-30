@@ -1,0 +1,1 @@
+Retrieval-Augmented Generation (RAG) combines information retrieval with language generation. A RAG pipeline retrieves passages from an external knowledge base and supplies them to a language model as context. The purpose is to ground generation in evidence and reduce unsupported answers. RAG quality depends on retrieval quality, ranking quality, and generation quality.

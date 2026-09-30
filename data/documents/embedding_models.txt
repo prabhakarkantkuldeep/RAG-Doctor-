@@ -1,0 +1,1 @@
+An embedding model maps text into a vector space where semantically related texts should be close together. Different embedding models have different strengths across domains and languages. A model trained for general semantic similarity may not be optimal for specialized technical or scientific retrieval.

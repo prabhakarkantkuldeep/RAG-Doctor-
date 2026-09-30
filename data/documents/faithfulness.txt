@@ -1,0 +1,1 @@
+Faithfulness measures whether an answer is supported by the supplied context. A faithful answer should not introduce claims that cannot be traced to the retrieved evidence. Faithfulness is distinct from retrieval recall: a system can retrieve the correct passage and still generate an unfaithful answer.

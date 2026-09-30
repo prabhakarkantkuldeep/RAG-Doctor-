@@ -1,0 +1,1 @@
+A reranker only operates on the candidates produced by the first-stage retriever. If the correct document is not in that candidate set, the reranker cannot discover it. This is why candidate recall should be evaluated before concluding that reranking is ineffective.

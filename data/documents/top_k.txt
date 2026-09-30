@@ -1,0 +1,1 @@
+The top-K parameter controls how many retrieved passages are passed downstream. A very small K may miss useful evidence. A very large K can introduce distracting passages and increase context length. Choosing K is therefore a tradeoff between recall, noise, latency, and context budget.

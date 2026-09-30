@@ -1,0 +1,1 @@
+Retrieval precision measures how much of the retrieved set is relevant, while retrieval recall measures how much of the relevant evidence was retrieved. Increasing the number of candidates often improves recall but can lower precision by adding distractors. Both metrics are useful when evaluating retrieval behavior.

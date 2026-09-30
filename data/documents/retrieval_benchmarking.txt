@@ -1,0 +1,1 @@
+A useful RAG benchmark should contain both straightforward and difficult questions. Questions should include lexical matches, paraphrases, multi-concept queries, and cases where distractor passages contain related terminology. A benchmark with only easy questions can make different retrievers appear artificially identical.

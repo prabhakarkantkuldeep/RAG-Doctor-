@@ -1,0 +1,168 @@
+[
+  {
+    "id": "q01",
+    "type": "lexical",
+    "question": "What is BM25?",
+    "relevant_chunk_ids": [
+      "bm25_chunk_0"
+    ]
+  },
+  {
+    "id": "q02",
+    "type": "lexical",
+    "question": "What parameters are commonly exposed by BM25 implementations?",
+    "relevant_chunk_ids": [
+      "bm25_parameters_chunk_0"
+    ]
+  },
+  {
+    "id": "q03",
+    "type": "semantic",
+    "question": "How can search find conceptually similar passages even when the exact words are different?",
+    "relevant_chunk_ids": [
+      "dense_retrieval_chunk_0"
+    ]
+  },
+  {
+    "id": "q04",
+    "type": "semantic",
+    "question": "What does an embedding model do to text?",
+    "relevant_chunk_ids": [
+      "embedding_models_chunk_0"
+    ]
+  },
+  {
+    "id": "q05",
+    "type": "lexical",
+    "question": "What is reciprocal rank fusion used for?",
+    "relevant_chunk_ids": [
+      "hybrid_fusion_chunk_0"
+    ]
+  },
+  {
+    "id": "q06",
+    "type": "mixed",
+    "question": "How can a system combine keyword matching with semantic similarity?",
+    "relevant_chunk_ids": [
+      "hybrid_retrieval_chunk_0",
+      "hybrid_fusion_chunk_0"
+    ]
+  },
+  {
+    "id": "q07",
+    "type": "lexical",
+    "question": "What can a cross-encoder reranker improve?",
+    "relevant_chunk_ids": [
+      "reranking_chunk_0"
+    ]
+  },
+  {
+    "id": "q08",
+    "type": "semantic",
+    "question": "Why can't a second-stage ranker recover missing evidence?",
+    "relevant_chunk_ids": [
+      "reranker_limitations_chunk_0",
+      "reranking_chunk_0"
+    ]
+  },
+  {
+    "id": "q09",
+    "type": "lexical",
+    "question": "Which metrics measure whether relevant passages appear in the first K results?",
+    "relevant_chunk_ids": [
+      "evaluation_chunk_0"
+    ]
+  },
+  {
+    "id": "q10",
+    "type": "semantic",
+    "question": "Why might a RAG benchmark make all retrieval methods look equally good?",
+    "relevant_chunk_ids": [
+      "retrieval_benchmarking_chunk_0"
+    ]
+  },
+  {
+    "id": "q11",
+    "type": "lexical",
+    "question": "What happens when K is made very large?",
+    "relevant_chunk_ids": [
+      "top_k_chunk_0"
+    ]
+  },
+  {
+    "id": "q12",
+    "type": "semantic",
+    "question": "Why is sending every retrieved passage to the model not always a good idea?",
+    "relevant_chunk_ids": [
+      "context_window_chunk_0",
+      "top_k_chunk_0"
+    ]
+  },
+  {
+    "id": "q13",
+    "type": "lexical",
+    "question": "What is the difference between faithfulness and answer relevance?",
+    "relevant_chunk_ids": [
+      "faithfulness_chunk_0",
+      "answer_relevance_chunk_0"
+    ]
+  },
+  {
+    "id": "q14",
+    "type": "semantic",
+    "question": "Can retrieval succeed while the final response is still unsupported?",
+    "relevant_chunk_ids": [
+      "hallucination_chunk_0",
+      "faithfulness_chunk_0"
+    ]
+  },
+  {
+    "id": "q15",
+    "type": "lexical",
+    "question": "What is the difference between precision and recall in retrieval?",
+    "relevant_chunk_ids": [
+      "precision_recall_chunk_0"
+    ]
+  },
+  {
+    "id": "q16",
+    "type": "mixed",
+    "question": "How does increasing candidate depth affect RAG quality and speed?",
+    "relevant_chunk_ids": [
+      "retrieval_latency_chunk_0"
+    ]
+  },
+  {
+    "id": "q17",
+    "type": "semantic",
+    "question": "Why should a RAG experiment save the retrieved passages and generated answer?",
+    "relevant_chunk_ids": [
+      "failure_reproduction_chunk_0"
+    ]
+  },
+  {
+    "id": "q18",
+    "type": "stress",
+    "question": "What is the difference between query expansion and reranking?",
+    "relevant_chunk_ids": [
+      "query_expansion_chunk_0",
+      "reranking_chunk_0"
+    ]
+  },
+  {
+    "id": "q19",
+    "type": "stress",
+    "question": "Why might a general embedding model perform poorly on a specialized domain?",
+    "relevant_chunk_ids": [
+      "embedding_models_chunk_0"
+    ]
+  },
+  {
+    "id": "q20",
+    "type": "stress",
+    "question": "How does approximate nearest-neighbor search change the speed/recall tradeoff?",
+    "relevant_chunk_ids": [
+      "vector_indexing_chunk_0"
+    ]
+  }
+]

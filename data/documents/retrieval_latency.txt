@@ -1,0 +1,1 @@
+RAG systems must balance retrieval quality with latency. Increasing candidate depth can improve recall but also increases reranking and generation cost. Approximate vector search can reduce latency. A practical system should measure both retrieval metrics and response time rather than optimizing a single metric.

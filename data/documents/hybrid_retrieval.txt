@@ -1,0 +1,1 @@
+Hybrid retrieval combines sparse lexical signals with dense semantic signals. Reciprocal Rank Fusion is one way to combine rankings without requiring the two retrievers to produce comparable raw scores. Hybrid retrieval can preserve exact keyword matching while recovering semantically similar passages.

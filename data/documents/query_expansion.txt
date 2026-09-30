@@ -1,0 +1,1 @@
+Query expansion adds related terms, synonyms, or alternate formulations to an original search query. It can improve lexical retrieval when the user's wording differs from the vocabulary of the source documents. However, aggressive expansion can introduce irrelevant terms and reduce precision.

@@ -1,0 +1,1 @@
+BM25 implementations commonly expose parameters such as k1 and b. k1 controls the degree of term-frequency saturation, while b controls document-length normalization. These parameters affect ranking behavior and can be tuned on a validation set rather than assumed to be universally optimal.

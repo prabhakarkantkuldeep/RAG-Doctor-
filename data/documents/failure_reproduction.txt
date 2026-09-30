@@ -1,0 +1,1 @@
+A reproducible failure analysis records the query, retrieved candidates, ranking scores, expected evidence, generated answer, and diagnosis. Saving these artifacts makes it possible to compare pipeline versions and determine whether a change fixed retrieval, ranking, or generation behavior.

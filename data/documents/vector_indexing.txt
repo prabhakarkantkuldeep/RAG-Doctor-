@@ -1,0 +1,1 @@
+Vector indexes make dense retrieval efficient over large collections of embeddings. Exact nearest-neighbor search compares a query against every vector, while approximate nearest-neighbor indexes trade a small amount of recall for much faster search. FAISS is a common library for building vector indexes.

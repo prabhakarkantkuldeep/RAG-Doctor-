@@ -1,0 +1,1 @@
+Answer relevance measures how directly a generated answer addresses the user's question. A response can be faithful to retrieved evidence while still failing to answer the actual question. Evaluation should therefore separate relevance from faithfulness and retrieval quality.

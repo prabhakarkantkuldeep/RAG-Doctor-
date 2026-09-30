@@ -1,0 +1,1 @@
+A language model context window limits how much retrieved evidence can be supplied in one request. Increasing the number or size of retrieved chunks can exceed the context budget. Effective RAG systems balance evidence coverage with context efficiency and avoid filling the prompt with redundant passages.
